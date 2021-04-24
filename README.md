@@ -2,7 +2,7 @@
 ---
 
 - 🌱 I’m currently learning Android Development 
-- ⚡ I’m looking to Contribute more to Open Source projects
+- 🔭 I’m looking to Contribute more to Open Source projects
 
 
 
