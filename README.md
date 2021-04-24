@@ -6,7 +6,7 @@
 
 
 
-## :trophy: My Github Stats:
+### My Github Stats:
 ---
 
 
@@ -20,7 +20,6 @@
 
 
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=sakshi-1604&hide=php&theme=tokyonight">
-  <img align="right" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=sakshi-1604&hide=php&theme=tokyonight" />
 </a>
 </div>
 
