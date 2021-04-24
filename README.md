@@ -31,5 +31,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sakshi-1604&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/sakshi-1604/github-readme-streak-stats)
 
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=sakshi-1604&hide=php&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=sakshi-1604&hide=php&theme=tokyonight" />
+</a>
+</div>
+
 
 
