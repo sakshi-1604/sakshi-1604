@@ -1,4 +1,4 @@
-### Hi there, I'm Sakshi 👋
+## Hi there, I'm Sakshi 👋
 ---
 
 - 🌱 I’m currently learning Android Development 
