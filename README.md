@@ -29,7 +29,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-1604&" alt="sakshi-1604" /></p>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sakshi-1604&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/sakshi-1604/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sakshi-1604&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/sakshi-1604/github-readme-streak-stats)
 
 
 
