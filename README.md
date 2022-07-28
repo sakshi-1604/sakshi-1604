@@ -1,7 +1,7 @@
 # Hi there, I'm Sakshi 👋
 ---
 
-- 🌱 I’m currently learning Android Development 
+- 🌱 Currently learning Blockchain 
 - 🔭 I’m looking forward to Contribute more to Open Source projects
 
 
