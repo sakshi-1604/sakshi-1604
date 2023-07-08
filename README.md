@@ -2,7 +2,7 @@
 ---
 
 - 🌱 Currently learning Blockchain 
-- 🔭 I’m looking forward to Contribute more to Open Source projects
+- 🔭 Looking forward to Contribute more to Open Source projects
 
 
 
